@@ -4,8 +4,8 @@
 
 ---
 
-### Hello! Welcome to my profile!  
-I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currently living in Terceira island! 
+### :raised_hand_with_fingers_splayed: Hello! Welcome to my profile!  
+I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currently living in Terceira island! 	:desert_island:
 
 ---
 
@@ -13,10 +13,10 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratzPereira)
 
 
+---
 
 
-
-
+### :gear:Technologies & Tools
 
 
 
