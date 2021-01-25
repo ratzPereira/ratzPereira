@@ -19,6 +19,7 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 [3]: https://www.linkedin.com/in/joaoclpereira
 [2]: https://www.facebook.com/profile.php?id=100000640501407
 
+
 ---
 
 
