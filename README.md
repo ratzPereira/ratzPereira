@@ -39,7 +39,7 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ratzPereira&theme=dark&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratzPereira)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ratzPereira&theme=dark&show_icons=true) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratzPereira)
 
 
 
