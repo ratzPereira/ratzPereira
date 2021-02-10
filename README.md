@@ -37,6 +37,7 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/dQBf65g4/image.png" alt="" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/66bsV97M/mongodb-logo-database-nosql-sql-logo-a9212af03e30e3a90d55b270db441373.png" alt="" width="80" height="60">
 
 
+
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ratzPereira&theme=dark&show_icons=true)   
