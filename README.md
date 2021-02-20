@@ -34,8 +34,7 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 
 ### :bulb: Current learing
 
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/dQBf65g4/image.png" alt="" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/66bsV97M/mongodb-logo-database-nosql-sql-logo-a9212af03e30e3a90d55b270db441373.png" alt="" width="80" height="60">
-
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/dQBf65g4/image.png" alt="" width="50" height="50"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/66bsV97M/mongodb-logo-database-nosql-sql-logo-a9212af03e30e3a90d55b270db441373.png" alt="" width="80" height="60">&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://i.postimg.cc/3ws0h2wk/kisspng-angularjs-logo-javascript-security-token-5b38e22baf3de3-0360434915304545717178.png" alt="" width="40" height="40">
 
 
 ---
