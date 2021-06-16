@@ -27,14 +27,14 @@ I'm João Pereira, Software Developer! I'm from Portugal, Vila Real but currentl
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/t4VVqMj5/image.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/5Nmfw5mV/image.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/RZFxKkF7/image.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/fLYGMZ2N/image.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/x8RBb5Vp/image.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/d3PygM3p/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c7247ce6172-85232595153.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/mrs30sHM/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb2221a59.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/P5zvv8Cp/86p3f7qf9e5amknivtmo7qtahb-4c673dadd750fc1c51df14b1ba68b43a.png" alt="" width="50" height="50">&nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/kg4B1MwD/pngfind-com-spring-png-535670.png" alt="" width="110" height="50"> &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/yxQX8RDy/pngwing-com.png" alt="" width="50" height="50">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/xCdXT4MB/ts-logo-128.png" alt="" width="50" height="50">  &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/66bsV97M/mongodb-logo-database-nosql-sql-logo-a9212af03e30e3a90d55b270db441373.png" alt="" width="80" height="60">
-
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/dQBf65g4/image.png" alt="" width="50" height="50"> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;
 
 
 ---
 
 ### :bulb: Current learing
 
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://i.postimg.cc/dQBf65g4/image.png" alt="" width="50" height="50"> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;
+
 
 
 ---
